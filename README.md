@@ -1,11 +1,11 @@
 # AUTONOMOUS-LINE-FOLLOWING-AND-OBJECT-TRANSPORTING-VEHICLE
+This project involved developing an Autonomous Vehicle (AV) capable of following a designated line, detecting and transporting small objects, and avoiding obstacles, all within a 3m x 4m enclosed space. The AV was fully autonomous, operating without any human intervention, and successfully demonstrated key functionalities such as line following, object handling, and obstacle avoidance.
+
 <img width="173" alt="1 robot" src="https://github.com/user-attachments/assets/fae048df-3f2d-44ec-a959-56701f959bd9">
 <img width="117" alt="2robot " src="https://github.com/user-attachments/assets/8a9d77f5-2b4a-46ba-adb6-7ae4ee5cfcee">
 <img width="197" alt="3foto" src="https://github.com/user-attachments/assets/49f4882a-cef5-4a2e-99fa-0323ee1be7dd">
 
-https://youtube.com/shorts/7DLQ3rO53Xs?si=dl-ahHQB1ywLtRZS
-
-This project involved developing an Autonomous Vehicle (AV) capable of following a designated line, detecting and transporting small objects, and avoiding obstacles, all within a 3m x 4m enclosed space. The AV was fully autonomous, operating without any human intervention, and successfully demonstrated key functionalities such as line following, object handling, and obstacle avoidance.
+https://youtube.com/shorts/7DLQ3rO53Xs?si=dl-ahHQB1ywLtRZ
 
 # 1.Key Features and Functionalities:
 # Line Following:
